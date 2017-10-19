@@ -6,6 +6,9 @@
 - 作者：罗国文 
 - 邮箱：luoguowen123@qq.com
 
+
+      ![SimpleEmTextView](https://raw.githubusercontent.com/lgw666/SimpleEmTextView/master/SimpleEmTextView.gif)
+
 * ### 设置
 
   **Step 1. 添加JitPack到你的Project的build.gradle:**

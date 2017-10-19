@@ -1,10 +1,13 @@
 # SimpleEmTextView
 
-  ### [中文版]()
+  ### [中文版](https://github.com/lgw666/SimpleEmTextView/blob/master/README-CHN.md)
 
 - A simple emphasis text view android.support.v7.widget.AppCompatTextView - You can decide when to change content, text color and text size.
 - Author: Luo Guowen 
 - Email: luoguowen123@qq.com
+
+
+      ![SimpleEmTextView](https://raw.githubusercontent.com/lgw666/SimpleEmTextView/master/SimpleEmTextView.gif)
 
 * ### Setup
 
