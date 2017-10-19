@@ -7,7 +7,7 @@
 - 邮箱：luoguowen123@qq.com 
 
 
-  ![image](https://github.com/lgw666/SimpleToast/blob/master/SimpleToastDemo.gif)
+  ![SimpleEmTextView](https://raw.githubusercontent.com/lgw666/SimpleEmTextView/master/SimpleEmTextView.gif)
 
 * ### 设置
 
