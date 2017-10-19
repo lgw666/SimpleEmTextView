@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SimpleEmTextView">
+        <attr name="emText" format="string"/>
+        <attr name="emTextSize" format="integer"/>
+        <attr name="emTextColor" format="color"/>
+        <attr name="emTextStyle">
+            <enum name="normal" value="0"/>
+            <enum name="bold" value="1"/>
+            <enum name="italic" value="2"/>
+            <enum name="bold_italic" value="3"/>
+        </attr>
+    </declare-styleable>
+</resources>

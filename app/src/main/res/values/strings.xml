@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleEmTextView</string>
+    <string name="test_content">自定义强调文字视图\n可改变内容，字体颜色，字体大小\n-------------by国哥</string>
+</resources>
