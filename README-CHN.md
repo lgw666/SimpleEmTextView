@@ -4,10 +4,10 @@
 
 - 基于原生TextView的自定义简单强调文字视图，可随时改变内容，字体颜色，字体大小。
 - 作者：罗国文 
-- 邮箱：luoguowen123@qq.com
+- 邮箱：luoguowen123@qq.com 
 
 
-      ![SimpleEmTextView](https://raw.githubusercontent.com/lgw666/SimpleEmTextView/master/SimpleEmTextView.gif)
+  ![image](https://github.com/lgw666/SimpleToast/blob/master/SimpleToastDemo.gif)
 
 * ### 设置
 

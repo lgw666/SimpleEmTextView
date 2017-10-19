@@ -7,7 +7,7 @@
 - Email: luoguowen123@qq.com
 
 
-      ![SimpleEmTextView](https://raw.githubusercontent.com/lgw666/SimpleEmTextView/master/SimpleEmTextView.gif)
+  ![image](https://github.com/lgw666/SimpleToast/blob/master/SimpleToastDemo.gif)
 
 * ### Setup
 
