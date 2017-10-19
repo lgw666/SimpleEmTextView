@@ -18,7 +18,7 @@ import android.util.AttributeSet;
  * Email: luoguowen123@qq.com
  * Time: 2017/10/18
  * 自定义简单强调文字视图
- * 可改变内容，字体颜色，字体大小
+ * 可随时改变内容，字体颜色，字体大小
  */
 
 public class SimpleEmTextView extends android.support.v7.widget.AppCompatTextView {
